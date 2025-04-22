@@ -40,24 +40,6 @@
 
 ---
 
-### 📈 **Noteworthy Projects**
-- **[Flutter Plugin for Background Tasks](https://github.com/prayag887/flutter_plugin_background_tasks)**: A plugin designed to handle background tasks in Flutter, integrating with WorkManager.
-- **[OMR Scanner with OpenCV](https://github.com/prayag887/omr-scanner)**: Implementing a robust OMR scanning system using OpenCV for accurate document analysis.
-- **[Health Monitoring App](https://github.com/prayag887/health-monitoring-app)**: Building a health tracking app using IoT devices for **Android** and **Flutter**.
-
----
-
-### 🌐 **Let's Connect**
-- 💬 **[LinkedIn](https://www.linkedin.com/in/prayagdhakal/)**
-- 📧 **Email**: [prayag.dhakal@example.com](mailto:prayag.dhakal@example.com)
-- 🐦 **Twitter**: [@prayag_dhakal](https://twitter.com/prayag_dhakal)
-
----
-
-<p align="center">
-  <img src="https://giphy.com/gifs/loop-FnZXgQop1RHbJ7sHrg" alt="coding animation" />
-</p>
-
 
 ### 📈 GitHub Stats
 
