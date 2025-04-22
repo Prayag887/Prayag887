@@ -40,7 +40,6 @@
 
 ---
 
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -65,7 +64,7 @@
 
 ### 🌐 Find Me Online
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/prayag-dhakal-2a5b31222/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:prayagdhakal123@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
