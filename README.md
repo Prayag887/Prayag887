@@ -1,11 +1,10 @@
 <!-- Profile README -->
-
 <h1 align="center">
   Hi, I'm <a href="https://github.com/prayag887" target="_blank">Prayag Dhakal 👋</a>
 </h1>
 
 <p align="center">
-  🧠 Passionate Coder • 🛠️ Plugin Builder • 🎯 Automation Enthusiast
+  🧠 Android and IOS Native Developer • 🛠️ Flutter Plugin Builder • 🎯 Computer Vision and Machine Learning Developer
 </p>
 
 <div align="center">
@@ -14,21 +13,18 @@
 
 ---
 
-### 🔧 Tech I Work With
+### 🔧 **Tech Stack & Expertise**
 
-#### 💻 Languages & Frameworks
-<p>
-
+#### 💻 **Core Technologies**
+<p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-#### 🔌 Tools & Platforms
-<p>
+#### 🔌 **Tools & Platforms**
+<p align="center">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -36,13 +32,32 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
-#### ⚙️ Special Focus Areas
-- ✅ **Flutter plugin development** (Platform channels, WorkManager, sqflite)
-- 📷 **OMR scanning systems** with **OpenCV** & **image processing**
-- 🍎 **Speech Recognizer Flutter Plugin** using **Swift** & **Kotlin**
-- 📱 **Health Monitoring Application** using **IOT Devices** for **Android Platform**
+#### ⚙️ **Special Focus Areas**
+- ✅ **Kotlin & OpenCV** for advanced image processing and **OMR Scanning Systems**
+- 📱 **Flutter Plugin Development** (Platform Channels, WorkManager, Background Tasks)
+- 🍏 **Swift Development** for building high-performance **iOS** applications
+- 🛠️ **Automation & AI Integration** with Flutter, Kotlin, and Swift
 
 ---
+
+### 📈 **Noteworthy Projects**
+- **[Flutter Plugin for Background Tasks](https://github.com/prayag887/flutter_plugin_background_tasks)**: A plugin designed to handle background tasks in Flutter, integrating with WorkManager.
+- **[OMR Scanner with OpenCV](https://github.com/prayag887/omr-scanner)**: Implementing a robust OMR scanning system using OpenCV for accurate document analysis.
+- **[Health Monitoring App](https://github.com/prayag887/health-monitoring-app)**: Building a health tracking app using IoT devices for **Android** and **Flutter**.
+
+---
+
+### 🌐 **Let's Connect**
+- 💬 **[LinkedIn](https://www.linkedin.com/in/prayagdhakal/)**
+- 📧 **Email**: [prayag.dhakal@example.com](mailto:prayag.dhakal@example.com)
+- 🐦 **Twitter**: [@prayag_dhakal](https://twitter.com/prayag_dhakal)
+
+---
+
+<p align="center">
+  <img src="https://giphy.com/gifs/loop-FnZXgQop1RHbJ7sHrg" alt="coding animation" />
+</p>
+
 
 ### 📈 GitHub Stats
 
