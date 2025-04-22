@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">
-  Hi, I'm <a href="https://github.com/yourusername" target="_blank">Your Name 👋</a>
+  Hi, I'm <a href="https://github.com/prayag887" target="_blank">Prayag Dhakal 👋</a>
 </h1>
 
 <p align="center">
@@ -47,12 +47,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prayag887&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prayag887&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayag887&layout=compact&theme=radical"/>
 </p>
 
 ---
