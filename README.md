@@ -1,24 +1,31 @@
 <!-- Profile README -->
 
 <h1 align="center">
-  Hi, I'm <a href="https://github.com/prayag887" target="_blank">Prayag Dhakal 👋</a>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="40"> 
+  Hi, I'm <a href="https://github.com/prayag887" target="_blank">Prayag Dhakal</a> 
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="40">
 </h1>
 
 <p align="center">
   🧠 Passionate Coder • 🛠️ Plugin Builder • 🎯 Automation Enthusiast
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Flutter+Plugin+Developer;OpenCV+%7C+OMR+Scanner+Specialist;Swift%2C+Dart%2C+Android%2C+AI+Automator" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Flutter+Plugin+Developer;OpenCV+%7C+OMR+Scanner+Specialist;Swift%2C+Dart%2C+Android%2C+AI+Automator" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+</p>
 
 ---
 
-### 🔧 Tech I Work With
+### 🚀 Tech I Work With
 
 #### 💻 Languages & Frameworks
 <p>
-
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -36,15 +43,18 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
-#### ⚙️ Special Focus Areas
-- ✅ **Flutter plugin development** (Platform channels, WorkManager, sqflite)
-- 📷 **OMR scanning systems** with **OpenCV** & **image processing**
-- 🍎 **Speech Recognizer Flutter Plugin** using **Swift** & **Kotlin**
-- 📱 **Health Monitoring Application** using **IOT Devices** for **Android Platform**
+---
+
+### ⚙️ Special Focus Areas
+
+- 🔌 **Flutter plugin development** (Platform channels, WorkManager, sqflite)  
+- 📷 **OMR scanning systems** with **OpenCV** & **image processing**  
+- 🍎 **Speech Recognizer Flutter Plugin** using **Swift** & **Kotlin**  
+- 📱 **Health Monitoring Application** using **IOT Devices** for **Android Platform**  
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=prayag887&theme=tokyonight" />
@@ -62,21 +72,23 @@
 - 🔌 **Custom Flutter Plugins** – Background Dart execution after app termination using WorkManager  
 - 📷 **OMR Scanner App** – Mark recognition with **OpenCV** & Flutter-native interop  
 - ⚙️ **Automated Workflow Plugins** – iOS + Android support with native callbacks and Dart bridges  
-- 🔐 **SQLite Sync Engine** – Built for syncing complex relational data structures inside Flutter apps
+- 🔐 **SQLite Sync Engine** – Built for syncing complex relational data structures inside Flutter apps  
 
 ---
 
-### 🌐 Find Me Online
+### 🌐 Let's Connect
 
-<p>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/prayag-dhakal-2a5b31222/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:prayagdhakal123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
-
