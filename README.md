@@ -53,13 +53,27 @@
 
 ---
 
-### 🧩 Notable Projects
+🧩 Notable Projects
+💡 Custom Flutter Plugins
 
-Project | Description
- | 🔌 Custom Flutter Plugins<sub>Background Dart execution after app termination using <strong>WorkManager</strong></sub>
- | 📷 OMR Scanner App<sub>Mark recognition powered by <strong>OpenCV</strong> + native Flutter interop</sub>
- | ⚙️ Automated Workflow Plugins<sub>Native callbacks + Dart bridges for <strong>iOS</strong> & <strong>Android</strong></sub>
- | 🔐 SQLite Sync Engine<sub>Syncs <strong>complex relational data</strong> in Flutter apps with ease</sub>
+Background Dart execution even after the app is closed — powered by WorkManager.
+Kotlin + Swift + Dart working in sync.
+
+📷 OMR Scanner App
+
+High-accuracy mark detection using OpenCV — integrated natively with Flutter.
+Real-time sheet scanning with optimized native bindings.
+
+⚙️ Automated Workflow Plugins
+
+Native-to-Dart bridges with full support for iOS and Android automation.
+Background tasks, lifecycle listeners, and plugin magic.
+
+🗂️ SQLite Sync Engine
+
+Handles deep, relational data syncing inside Flutter.
+Designed for performance and reliability.
+
 ---
 
 ### 🌐 Find Me Online
