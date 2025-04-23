@@ -17,10 +17,14 @@
 
 #### 💻 **Core Technologies**
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 #### 🔌 **Tools & Platforms**
@@ -30,10 +34,15 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Sqflite-007ACC?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Fastlane-EA4E43?style=for-the-badge&logo=fastlane&logoColor=white"/>
 </p>
 
+
 #### ⚙️ **Special Focus Areas**
-- ✅ **Kotlin & OpenCV** for advanced image processing and **OMR Scanning Systems**
+- ✅ **Kotlin & OpenCV** for advanced image processing
 - 📱 **Flutter Plugin Development** (Platform Channels, WorkManager, Background Tasks)
 - 🍏 **Swift Development** for building high-performance **iOS** applications
 - 🛠️ **Automation & AI Integration** with Flutter, Kotlin, and Swift
@@ -55,24 +64,24 @@
 
 🧩 Notable Projects
 💡 Custom Flutter Plugins
-
 Background Dart execution even after the app is closed — powered by WorkManager.
-Kotlin + Swift + Dart working in sync.
+Built with Kotlin, Swift, and Dart working seamlessly together.
 
-📷 OMR Scanner App
-
-High-accuracy mark detection using OpenCV — integrated natively with Flutter.
-Real-time sheet scanning with optimized native bindings.
+📷 Computer Vision
+High-accuracy mark detection using OpenCV — real-time sheet scanning with optimized native bindings on Android.
+Realtime face tracking for health monitoring using native processing pipelines.
 
 ⚙️ Automated Workflow Plugins
-
-Native-to-Dart bridges with full support for iOS and Android automation.
-Background tasks, lifecycle listeners, and plugin magic.
+Native-to-Dart bridges with full support for iOS and Android.
+Custom background task managers, lifecycle listeners, and plugin automation tools.
 
 🗂️ SQLite Sync Engine
+Handles deep, relational data syncing inside Flutter apps.
+Built for performance, with full support for schema migrations and nested structures.
 
-Handles deep, relational data syncing inside Flutter.
-Designed for performance and reliability.
+🧠 Speech Recognition Runtime
+Integrated JNI and C++ layers to run heavy TFLite models directly on-device.
+Optimized for low-latency grammar and accent recognition, enhancing speech processing performance across mobile platforms.
 
 ---
 
