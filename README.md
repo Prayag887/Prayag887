@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Flutter+Plugin+Developer;OpenCV+%7C+OMR+Scanner+Specialist;Swift%2C+Dart%2C+Android%2C+AI+Automator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Flutter+Plugin+Developer;OpenCV+%7C+Computer+Vision+Specialist;Swift%2C+Dart%2C+Android%2C+AI+Automator" alt="Typing SVG" />
 </div>
 
 ---
